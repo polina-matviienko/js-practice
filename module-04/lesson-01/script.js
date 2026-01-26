@@ -50,16 +50,6 @@ const obj7 = {
   e: 22,
 };
 
-// const btn7 = document.querySelector(".b-7");
-// const out7 = document.querySelector(".out-7");
-// btn7.onclick = fn7;
-
-// function fn7() {
-//   const searchKey = document.querySelector(".i-7").value;
-//   console.log("🚀 ~ fn7 ~ searchKey:", searchKey);
-//   out7.innerHTML = +(searchKey in obj7);
-// }
-
 // Task 8
 const obj8 = {
   b: 17,
@@ -130,15 +120,15 @@ const obj15 = {
 // Task 16
 const obj16 = {
   iis8sj: {
-    name: "Ivan",
+    name: "Mango",
     age: 27,
   },
   iiss7j: {
-    name: "Petr",
+    name: "Poly",
     age: 26,
   },
   s3s8sj: {
-    name: "Serg",
+    name: "Ajax",
     age: 47,
   },
 };
